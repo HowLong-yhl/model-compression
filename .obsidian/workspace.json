@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d58fe83dd37ee070",
+    "type": "split",
+    "children": [
+      {
+        "id": "973f5f917a6b6e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61474b6d813baf69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/KV Cache 管理/VLM KV Cache/VLM KV Cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VLM KV Cache"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16b0178858223fb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a2392e629be06c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5546fd30c306046f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f95fd2339bb70aa3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Duoa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eb08153ecfc4c20b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73899e72d329fbc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "94718b89d9ccf8f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eba7386f97d7f001",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concepts/Rotation-based Quantization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rotation-based Quantization 的反向链接列表"
+            }
+          },
+          {
+            "id": "53da357a0654dce6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concepts/Rotation-based Quantization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Rotation-based Quantization 的出链列表"
+            }
+          },
+          {
+            "id": "b4ca99a9cff2ed92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "13052d27b99ce8b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e177c321ccc9dfd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/Rotation-based Quantization.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Rotation-based Quantization 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "61474b6d813baf69",
+  "lastOpenFiles": [
+    "wiki/KV Cache 管理/Ada-KV.md",
+    "wiki/KV Cache 管理/images/Ada-KV_table3_fig6_followup_efficiency.png",
+    "wiki/KV Cache 管理/images/Ada-KV_fig5_longbench.png",
+    "wiki/KV Cache 管理/images/Ada-KV_table1_task_analysis.png",
+    "wiki/KV Cache 管理/images/Ada-KV_fig3_ruler.png",
+    "wiki/KV Cache 管理/images/Ada-KV_fig1_motivation.png",
+    "wiki/KV Cache 管理/CAOTE.md",
+    "wiki/KV Cache 管理/images/CAOTE_table5_niah.png",
+    "wiki/KV Cache 管理/images/CAOTE_fig2_needle_haystack.png",
+    "wiki/KV Cache 管理/images/CAOTE_table4_perplexity.png",
+    "wiki/KV Cache 管理/images/CAOTE_table2_longbench_llama.png",
+    "wiki/KV Cache 管理/images/CAOTE_fig1_method_flow.png",
+    "wiki/KV Cache 管理/VLM KV Cache/Attention Debiasing.md",
+    "wiki/KV Cache 管理/VLM KV Cache/VL-Cache.md",
+    "wiki/KV Cache 管理/VLM KV Cache/MixKV.md",
+    "wiki/KV Cache 管理/VLM KV Cache/AirCache.md",
+    "wiki/KV Cache 管理/TriAttention.md",
+    "wiki/KV Cache 管理/KV Cache Empirical Observations.md",
+    "wiki/KV Cache 管理/VLM KV Cache/VLM KV Cache.md",
+    "wiki/KV Cache 管理/VLM KV Cache/images",
+    "wiki/KV Cache 管理/VLM KV Cache",
+    "wiki/VLM KV Cache/VL-Cache.md",
+    "wiki/VLM KV Cache/images",
+    "wiki/VLM KV Cache",
+    "wiki/KV Cache 管理/VL-Cache.md",
+    "wiki/KV Cache 管理/DiffKV.md",
+    "wiki/KV Cache 管理/KV Cache Management.md",
+    "wiki/KV Cache 管理/KV Cache Offloading.md",
+    "wiki/KV Cache 管理/AQUA-KV.md",
+    "wiki/KV Cache 管理/DuoAttention.md",
+    "wiki/KV Cache 管理/Expected Attention.md",
+    "wiki/KV Cache 管理/EVICPRESS.md",
+    "wiki/KV Cache 管理/SnapKV.md",
+    "wiki/KV Cache 管理/KVTuner.md",
+    "wiki/KV Cache 管理/KIVI.md",
+    "wiki/overview.md",
+    "wiki/KV Cache 管理/KVzip.md",
+    "wiki/KV Cache 管理/TurboQuant.md",
+    "wiki/KV Cache 管理/CAKE.md",
+    "wiki/KV Cache 管理/TOVA.md",
+    "wiki/KV Cache 管理/images",
+    "wiki/架构级效率改进",
+    "wiki/剪枝与稀疏化",
+    "wiki/KV Cache 管理",
+    "wiki/量化/部署与生态",
+    "wiki/量化/综述与对比"
+  ]
+}
