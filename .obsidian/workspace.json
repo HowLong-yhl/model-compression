@@ -185,6 +185,7 @@
   },
   "active": "61474b6d813baf69",
   "lastOpenFiles": [
+    "wiki/README.md",
     "wiki/KV Cache 管理/Ada-KV.md",
     "wiki/KV Cache 管理/images/Ada-KV_table3_fig6_followup_efficiency.png",
     "wiki/KV Cache 管理/images/Ada-KV_fig5_longbench.png",
@@ -224,7 +225,6 @@
     "wiki/KV Cache 管理/KVzip.md",
     "wiki/KV Cache 管理/TurboQuant.md",
     "wiki/KV Cache 管理/CAKE.md",
-    "wiki/KV Cache 管理/TOVA.md",
     "wiki/KV Cache 管理/images",
     "wiki/架构级效率改进",
     "wiki/剪枝与稀疏化",
